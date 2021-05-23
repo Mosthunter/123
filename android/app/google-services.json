@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "69447055768",
+    "project_id": "traffic-54aa6",
+    "storage_bucket": "traffic-54aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69447055768:android:8ed6a54970e8c97dfed3ed",
+        "android_client_info": {
+          "package_name": "com.example.traf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69447055768-0nur381ipefs0ph9n6ris5psd5qusmsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpr5hC02iYfKnCDIIZGqwcPhLgGtDHqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69447055768-0nur381ipefs0ph9n6ris5psd5qusmsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69447055768:android:d4537b226662e3c2fed3ed",
+        "android_client_info": {
+          "package_name": "com.example.traffic91"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69447055768-0nur381ipefs0ph9n6ris5psd5qusmsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpr5hC02iYfKnCDIIZGqwcPhLgGtDHqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69447055768-0nur381ipefs0ph9n6ris5psd5qusmsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
